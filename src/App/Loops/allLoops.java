@@ -24,7 +24,7 @@ public class allLoops {
             System.out.println(j);
             j++;
         }
-        while (j < 5);
+        while (j < 9);
 
     }
 }
