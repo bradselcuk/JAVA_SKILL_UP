@@ -8,7 +8,7 @@ public class allLoops {
         }
 
         // foreach loop
-        String[] name = {"Bulent", "Meltem", "Doga"}; // array
+        String[] name = {"Cafer", "Meltem", "Doga"}; // array
         for (String i : name) {
             System.out.println(i);
         }
