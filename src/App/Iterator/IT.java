@@ -11,7 +11,7 @@ public class IT {
         cars.add("Volvo");
         cars.add("BMW");
         cars.add("Ford");
-        cars.add("Mazda");
+        cars.add("Toyota");
 
         // Get the iterator
         Iterator<String> it = cars.iterator();
