@@ -2,9 +2,9 @@ package App.Clause;
 
 public class if_command {
     public static void main(String[] args) {
-        int num = 7;
+        int num = 9;
 
-        if(num == 7){
+        if(num == 9){
             System.out.println("OK");
         }else{
             System.out.println("NO");
